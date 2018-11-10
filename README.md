@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to HashiStack.ie
+
+https://github.com/allthingsclowd/web_page_counter/blob/master/readme.md
 
 You can use the [editor on GitHub](https://github.com/allthingsclowd/allthingsclowd.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
