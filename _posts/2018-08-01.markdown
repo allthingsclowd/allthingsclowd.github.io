@@ -1,0 +1,13 @@
+---
+layout: post
+title: Next Post ...
+category: posts
+---
+
+
+---
+Any feedback ? You can reach [@allthingscloud][twitter].
+
+[gl]: https://hashistack.ie
+[github]: https://github.com/allthingsclowd
+[twitter]: https://twitter.com/allthingscloud
