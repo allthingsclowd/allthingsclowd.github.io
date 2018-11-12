@@ -1,1 +1,10 @@
-theme: jekyll-theme-beautiful-jekyll
+permalink: /posts/:title
+markdown: kramdown
+
+gems:
+  - jekyll-sitemap
+
+name: Graham Land
+url: https://hashistack.ie
+description: A HashiCorp Technical Account Managers Playground.
+twitter: allthingscloud
