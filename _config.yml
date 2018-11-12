@@ -1,1 +1,10 @@
-theme: jekyll-theme-beautiful-jekyll
+permalink: /posts/:title
+markdown: kramdown
+
+gems:
+  - jekyll-sitemap
+
+name: Zach Holman
+url: https://zachholman.com/left
+description: A fantastic blog that is fantastic.
+twitter: holman
