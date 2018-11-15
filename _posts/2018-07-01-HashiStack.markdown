@@ -1,6 +1,6 @@
 ---
 layout: post
-title: HashiStack Example Application
+title: Example Application that Uses HashiCorp Toolset
 category: posts
 ---
 ![https://travis-ci.org/allthingsclowd/web_page_counter.svg?branch=master](https://travis-ci.org/allthingsclowd/web_page_counter.svg?branch=master)
